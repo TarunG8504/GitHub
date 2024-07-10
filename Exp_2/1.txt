@@ -1,4 +1,4 @@
 hello everyone
 My name is Tarun. G
 today is git class
-We are going to present
+We are going to present about github commands
