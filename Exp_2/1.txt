@@ -1,4 +1,9 @@
 hello everyone
 My name is Tarun. G
+<<<<<<< HEAD
 today is git class
 We are going to present about github commands
+=======
+today is git class'
+We are not
+>>>>>>> feature_branch
